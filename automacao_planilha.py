@@ -1,4 +1,4 @@
-# Navegador utilizado para a automação: Google Chrome #
+# Navegador utilizado para a automação: Google Chrome
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
