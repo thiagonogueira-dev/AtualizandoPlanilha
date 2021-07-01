@@ -44,4 +44,5 @@ tabela["Preço Final"] = tabela["Preço Base Reais"] * tabela["Margem"]
 # Salvando a tabela atualizada
 tabela.to_excel("./Produtos_Atualizada.xlsx", index=False)
 
+# Fechando o navegador
 navegador.close()
